@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: OperatEv Studio Developer Documentation Home
 ---
 
